@@ -1,5 +1,5 @@
 Task: Diabetes Prediction System with KNN Algorithm
 
-Description : Dataset terdiri dari variabel prediktif dan hasil yang menggambarkan apakah seseorang menderita diabetes atau tidak, Proyek mini ini bertujuan untuk membangun model pembelajaran mesin menggunakan metode pembelajaran terawasi dan algoritma k-Nearest Neighbor (KNN) dengan Python.
+The dataset consists of predictive variables and results that describe whether a person has diabetes or not. This mini project aims to build a machine learning model using supervised learning methods and the k-Nearest Neighbor (KNN) algorithm with Python.
 
 Dataset : https://bit.ly/DatasetSCDataMySkillxLionParcel 
